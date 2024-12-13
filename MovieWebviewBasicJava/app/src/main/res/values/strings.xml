@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieFone</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_history">History</string>
+
+    <string name="movie_hint">Name…</string>
+</resources>
